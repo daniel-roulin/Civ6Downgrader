@@ -5,8 +5,6 @@ This is sometimes necessary to play with MacOS players.
 
 > **Note:** This script was only tested on Linux and will VERY PROBABLY not work on Windows or MacOS.
 
-> **Note:** You obviously need to possess Civilization VI on Steam to be able to use this script.
-
 ### Requirements
 - Python 3
 - A steam account possessing Civilization VI on Steam
