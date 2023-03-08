@@ -45,5 +45,5 @@ However, you can also edit the configuration file manually, by following [this g
 - Therefore, it uses a compiled for linux version of [SteamRE's DepotDownloader](https://github.com/SteamRE/DepotDownloader) to download the game. 
 - In addition, to prevent Steam from automatically update the game, this script uses [leovp's acf parser](https://github.com/SteamRE/DepotDownloader) to edit some configuration files.
 
-### Notes
+### Note
 This script is not affiliated with Steam or Sid Meier's Civilization VI in any way. Use it at your own risk. 
