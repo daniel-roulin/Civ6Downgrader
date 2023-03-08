@@ -10,7 +10,6 @@ print("To continue, you need to connect to Steam.")
 username = input("Username: ")
 password = getpass("Password: ")
 
-print("Starting download...")
 os.system(f"./DepotDownloader/DepotDownloader -app 289070 -depot 289072 -manifest 2083953515690984432 -username {username} -password {password}")
 os.system(f"./DepotDownloader/DepotDownloader -app 289070 -depot 289071 -manifest 5394165790985725247 -username {username} -password {password}")
 
