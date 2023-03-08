@@ -11,6 +11,10 @@ This is sometimes necessary to play with MacOS players.
 - The latest version of Civilization VI already installed on your system through Steam.
 
 ### Usage
+Make sure you already have downloaded the game on steam.
+
+Enable Proton to use windows version: Go to the game Steam page, click on the wheel icon on the right and go to *Properties*. Then, in the *Compatibility* tab, enable *Force the use of a specific Steam Play compatibility tool* and in the dropdown menu, select Proton Experimental. A new download should start, wait until it finishes before continuing.
+
 Clone or download this repository
 ```
 git clone https://github.com/DanielRoulin/Civ6Downgrader.git
