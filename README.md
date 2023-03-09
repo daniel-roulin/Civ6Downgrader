@@ -3,18 +3,15 @@
 Script to downgrade Sid Meier's Civilization VI to version 1.0.12.28 (15 December 2022).
 This is sometimes necessary to play with MacOS players.
 
-> **Note:** This script was only tested on Linux and will VERY PROBABLY not work on Windows or MacOS.
+> **Note:** This script was only tested on Linux and WILL NOT WORK on Windows or MacOS.
 
 ### Requirements
 - Python 3
-- A steam account possessing Civilization VI
-- The latest version of Civilization VI already installed on your system through Steam.
-- Something like 15 or 20 Gb of free space oon your disk.
+- A steam account owning Civilization VI
+- Around 15 or 20 Gb of free space.
 
 ### Usage
-Make sure you already have downloaded the game on steam.
-
-Enable Proton to use windows version: Go to the game Steam page, click on the wheel icon on the right and go to *Properties*. Then, in the *Compatibility* tab, enable *Force the use of a specific Steam Play compatibility tool* and in the dropdown menu, select Proton Experimental. A new download should start, wait until it finishes before continuing. You should now exit Steam.
+First, download Civilization VI through Steam using Proton. To do this, go to the game Steam page, click on the wheel icon on the right and go to *Properties*. Then, in the *Compatibility* tab, enable *Force the use of a specific Steam Play compatibility tool* and in the dropdown menu, select *Proton Experimental*. A new download should start, wait for it to finish before continuing. You should now exit Steam.
 
 Clone or download this repository
 ```
